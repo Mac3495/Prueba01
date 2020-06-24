@@ -1,0 +1,10 @@
+   ********* 		VENTAS	 	*********
+---------------------------------------------------------------
+|	Nombre		| Cantidad Y Precio |Vendido Por      |
+---------------------------------------------------------------
+1.- Pique Macho 	|   	2 - 40bs    |   Pepito
+2.- Papas a la huacaina |   	5 - 40bs    |   George
+3.- Rice pudding 	|	4 - 12 Bs   |	Elvis Tek
+4.- Classic carrot cake |	2 - 24 Bs   |	Elsa Patito
+5.- Pizza tradicional	| 	1 - 40 Bs   |	Rolando
+6.- Fricase 		|	2 - 45 Bs   |	Ivan

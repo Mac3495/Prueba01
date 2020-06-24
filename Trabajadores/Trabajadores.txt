@@ -1,0 +1,8 @@
+******** Lista de Trabajadores ********
+Nombre      |       Apellidos      |
+Juan            Rivera
+Pedro           Arteaga
+Daniel          Ticona
+Marcelo         Torrez
+Angel          Camargo
+Luis            Torrez

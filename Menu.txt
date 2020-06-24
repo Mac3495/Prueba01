@@ -1,0 +1,40 @@
+MENU
+
+Nombre     |      Precio
+Aji de fideo - 5 Bs
+
+
+
+/******* PLATOS INTERNACIONALES *********/
+Nombre              |       Precio
+Arroz Turco                 1000000$
+Ensalada Saksuka            2000000$
+
+
+papas a la huancaina - 12 bs
+
+    ********* PLATOS SALUDABLES *********
+Nombre                     |    Precio
+Milanesa de Pollo               12 Bs
+Papas a la Parmesana            8 Bs
+Quesadillas de Atun             10 Bs
+
+    ********* PLATOS NO SALUDABLES *********
+Nombre                     |    Precio
+Hamburguesa al Carbon           18 Bs
+Pollo relleno                   55 Bs
+
+    *********    BEBIDAS Y JUGOS   *********
+	NOMBRE		|	PRECIO
+    Jugo de Papaya	     5 Bs. (1 vaso)
+    Jugo de Platano	     4 Bs. (1 vaso)
+    Fresco de limón	    10 Bs. (1 Litro)
+      Coca-Cola		    12 Bs. (2 Litros)
+    Fresco de K'isa	     3 Bs.  (1 vaso)
+    *********    DESSERTS   *********
+    NAME		|	PRICE
+
+    Classic carrot cake             12  Bs
+    Ricepudding                      3  Bs
+    Vanilla gelato                   7  Bs
+    
